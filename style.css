@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Pacifico&family=Quicksand&family=Rubik&family=VT323&display=swap');
+
+
+/* CSS code */
+body {
+/* background: #93A8AC;*/
+background: #253D5B;
+padding: 20px;
+  color: white;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  font-size: large;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.profile-img { 
+  width: 50%; 
+  border-radius: 50%
+}
+p { 
+  font-size: small;
+}
+
+.btn {
+display: block; 
+color: black;
+padding: 10px;
+background: white;
+margin: 16px;
+box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+}
