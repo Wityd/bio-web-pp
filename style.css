@@ -6,7 +6,7 @@
 body {
 /* background: #93A8AC;*/
 background: #253D5B;
-padding: 20px;
+padding: 10px;
   color: white;
   text-align: center;
   font-family: 'Quicksand', sans-serif;
@@ -20,11 +20,11 @@ a{
   color: white;
 }
 .profile-img { 
-  width: 50%; 
-  border-radius: 50%
+  width: 10%; 
+  border-radius: 20%
 }
 p { 
-  font-size: small;
+  font-size: large;
 }
 
 .btn {
@@ -33,5 +33,5 @@ color: black;
 padding: 10px;
 background: white;
 margin: 16px;
-box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+  box-shadow: 5px 10px inset;
 }
